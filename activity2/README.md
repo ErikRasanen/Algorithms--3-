@@ -2,8 +2,10 @@
 
 ## Task 1
 
-- Refer to the following link. Discuss how bubble Insertion works:
+- Refer to the following link. Discuss how Insertion sort works:
   https://opendsa-server.cs.vt.edu/ODSA/AV/Sorting/insertionsortAV.html
+
+  Insertion starts sorting from left and compares to all variables that are already handled
 
 ## Task 2
 
@@ -23,10 +25,14 @@
     }
 ```
 
+This is example of insertion sort, it sorts from small-->large by comparing all previous cases
+
 ## Task 3
 
 - Discuss the complexity analysis of insertion sort. Refer to the link below:
   https://www.softwaretestinghelp.com/insertion-sort/
+
+insertion sort is O(n^2), but will perform better on average than bubble or selection sort.
 
 ## Links
 
